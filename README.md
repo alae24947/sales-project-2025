@@ -12,7 +12,7 @@ The goal is to **generate**, **process**, and **summarize** sales data, then ext
 * Best quarter
 * Sales distribution and trends
 
-## 📁 **Project Structure**
+#Project Structure
 
 ```
 project_sales/
