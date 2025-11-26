@@ -1,5 +1,5 @@
 # sales-project-2025
-this project is created by alae khellifi ,sabrina hamrouie and maroua makhloufi 
+this project is created by Alae Khellifi ,Hamraoui Sabrina and Makhloufi Maroua. 
 # about this project 
 This project analyzes and visualizes **monthly sales data** for four products over one year using:
 * **NumPy**
