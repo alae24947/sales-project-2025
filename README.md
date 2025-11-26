@@ -61,12 +61,6 @@ Saved as output.csv
 * Heatmap (monthly values per product)
 * Boxplot (distribution per product)
 
-performance differences
-
-
-
-#key Insights Extracted
-
 The notebook identifies:
 * Best month
 * Best product(highest total yearly sales)
